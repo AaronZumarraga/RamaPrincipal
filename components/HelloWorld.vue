@@ -1,7 +1,3 @@
-<!--
-https://eugenkiss.github.io/7guis/tasks/#crud
--->
-
 <script setup>
 import { ref, reactive, computed, watch } from 'vue'
 
